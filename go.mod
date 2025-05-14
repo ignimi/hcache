@@ -1,6 +1,6 @@
 module hcache
 
-go 1.14
+go 1.20
 
 require (
 	github.com/tobert/pcstat v0.0.1
